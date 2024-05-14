@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "169658215911",
+    "firebase_url": "https://nomikunot-default-rtdb.firebaseio.com",
+    "project_id": "nomikunot",
+    "storage_bucket": "nomikunot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169658215911:android:15be2fa8f5487bdb202142",
+        "android_client_info": {
+          "package_name": "com.naomi.nomikunot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkTlMpDgqRTwJYldoeXSjzH1fxi5-h3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
